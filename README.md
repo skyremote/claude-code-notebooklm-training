@@ -53,6 +53,3 @@ We deliver a 1-hour hands-on workshop covering these skills and three practical 
 
 [NavAIgate](https://navaigate.dev) is an AI-native consultancy helping businesses implement practical AI solutions — training, advisory, and custom development.
 
----
-
-*Built with Claude Code by NavAIgate*
